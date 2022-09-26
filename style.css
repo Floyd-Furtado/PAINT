@@ -1,0 +1,45 @@
+.Body_Background {
+    background-image: url("Z1.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+
+  body {
+    cursor: pointer;
+  }
+
+.heading{
+    color: #ffffff;
+    font-size: 24px;
+    font-family: 'Montserrat';
+    font-style: italic;
+  }
+
+.My_Canvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
+
+.Clear_Area_Button {
+    background-color: #0004ff;
+    border: none;
+    color: white;
+    padding: 10px 42px;
+    font-size: 16px;
+    font-family: 'Montserrat';
+    font-style: italic;
+  }
+
+  input {
+    margin-right: 20px;
+    font-family: 'Montserrat';
+    font-style: italic;
+  }
+
+  span {
+    font-family: 'Montserrat';
+    font-style: italic; 
+    color: white;
+  }
